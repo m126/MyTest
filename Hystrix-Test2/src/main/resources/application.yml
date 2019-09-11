@@ -1,0 +1,11 @@
+server:
+  port: 1085
+
+spring:
+  application:
+    name: hystrix-test
+
+Eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:1089/eureka
