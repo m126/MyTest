@@ -16,4 +16,5 @@ public class AspectTestController {
         System.out.println("hello start");
     }
 
+    public void Hello2(){}
 }
